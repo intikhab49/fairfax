@@ -28,7 +28,7 @@ sources:
   ctc-overview:
     title: "What is custom text classification?"
     url: "https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/overview"
-    page_updated: 2026-08-03
+    page_updated: 2026-08-02
     checked: 2026-10-12
     archived: "https://web.archive.org/web/20261012142614/https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/overview"
   aoai-gov:
